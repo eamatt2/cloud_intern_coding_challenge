@@ -1,0 +1,6 @@
+nginx/certs/server.key
+nginx/certs/server.crt
+
+__pycache__/
+*.pyc
+.env
